@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://decent.land">
-    <img src="./pwd-logo/logo-dark.png" height="300">
+    <img src="./pwd-logo/logo-dark.png" height="250">
     <h3 align="center">Media Kit Repository for PWD </h3>
   </a>
 </p>
